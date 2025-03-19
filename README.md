@@ -1,12 +1,12 @@
 # DeepSeek 平替推荐：DeepSeek R1满血版 官方平替、DeepSeek 网页版 | 最新使用指南~ 【2025年3月更新】 
 
-> 更新时间：2025-03-19            
+> 更新时间：2025-03-20            
 
 轻松使用 **[DeepSeek 平替网站](https://chat.yixiaai.com)**，解决 DeepSeek 官网 **服务器繁忙** 的问题~   
 
 本指南提供最全面的 **DeepSeek 使用指南**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**~   
 
-包含 [**DeepSeek 官网入口**](https://chat.yixiaai.com)、[**DeepSeek官网平替**](https://chat.yixiaai.com)、[**DeepSeek 网页版**](https://chat.yixiaai.com)，助您顺畅使用 DeepSeek 和 ChatGPT ~
+包含 [**DeepSeek 官网入口**](https://chat.yixiaai.com)、[**DeepSeek官网平替**](https://chat.lanjing.ai)、[**DeepSeek 网页版**](https://chat.yixiaai.com)，助您顺畅使用 DeepSeek 和 ChatGPT ~
 
 ---
 
