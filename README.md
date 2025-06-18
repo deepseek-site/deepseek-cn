@@ -2,11 +2,11 @@
 
 > 更新时间：2025-06-17        
 
-轻松使用 **[DeepSeek 平替网站](https://chat.yixiaai.com)**，解决 DeepSeek 官网 **服务器繁忙** 的问题~   
+轻松使用 **[DeepSeek 平替网站](https://chat.lanjingai.org)**，解决 DeepSeek 官网 **服务器繁忙** 的问题~   
 
 本指南提供最全面的 **DeepSeek 使用指南**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**~   
 
-包含 [**DeepSeek 官网入口**](https://chat.lanjingai.org)、[**DeepSeek官网平替**](https://chat.lanjing.ai)、[**DeepSeek 网页版**](https://chat.lanjingai.org)，助您顺畅使用 DeepSeek 和 ChatGPT ~
+包含 [**DeepSeek 官网入口**](https://chat.lanjingai.org)、[**DeepSeek官网平替**](https://xsimplechat.com)、[**DeepSeek 网页版**](https://chat.lanjingai.org)，助您顺畅使用 DeepSeek 和 ChatGPT ~
 
 ---
 
@@ -20,8 +20,8 @@
 
 ## DeepSeek 官网
 
-* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.yixiaai.com)
-* **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/)    、 [下载（👆右上角）](https://chat.yixiaai.com) 
+* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.lanjingai.org)
+* **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/)    、 [下载（👆右上角）](https://xsimplechat.com) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
 
@@ -29,7 +29,7 @@
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek网页版**，支持 **DeepSeek R1满血版**、**R1 70B模型** 和 V3模型~
 * **🔥蓝鲸AI：**[chat.lanjingai.org](https://chat.lanjingai.org/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
-* **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/) - **DeepSeek官方平替**，支持DeepSeek、ChatGPT 和 Claude最好的模型
+* **🔥极简AI：**[xsimplechat.com](https://xsimplechat.com/) - **DeepSeek官方平替**，支持DeepSeek、ChatGPT 和 Claude最好的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
 * **Cursor：**[访问](https://www.cursor.com/)
